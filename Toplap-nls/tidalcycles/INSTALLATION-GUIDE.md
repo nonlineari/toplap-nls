@@ -167,7 +167,7 @@ If `Quarks.install("SuperDirt")` fails:
 
 1. Verify GHCi works in terminal:
    ```bash
-   /Users/nnlr/.ghcup/bin/ghci
+   ~/.ghcup/bin/ghci
    ```
    Type `:quit` to exit
 

@@ -123,7 +123,7 @@ Try restarting VS Code and ensuring:
 
 Run in terminal:
 ```bash
-/Users/nnlr/.ghcup/bin/ghci
+~/.ghcup/bin/ghci
 ```
 
 Should show GHCi prompt. Type `:quit` to exit.
